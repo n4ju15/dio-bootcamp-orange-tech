@@ -1,2 +1,5 @@
-# dio-bootcamp-orange-tech
-Este repositório contém as atividades realizadas durante o bootcamp Orange Tech - Inter da DIO. 
+# Repositório do Desafio de Projeto sobre Git e GitHub da Dio
+Repositório criado para o Desafio de projeto.
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
