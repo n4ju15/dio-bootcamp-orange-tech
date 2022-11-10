@@ -1,14 +1,15 @@
 
 
-const numero = 3;
+const numero = 0;
 
-const numeroPar = (numero % 2) === 0;
-console.log(numeroPar);
+const numeroDivisivelPor5 = (numero % 5) === 0;
 
-if (numeroPar) {
-    console.log('Par')
+if (numero === 0) {
+    console.log('O número é inválido')
+} else if (numeroDivisivelPor5) {
+    console.log('SIM')
 } else {
-    console.log('Impar')
+    console.log('NAO')
 }
 
 
